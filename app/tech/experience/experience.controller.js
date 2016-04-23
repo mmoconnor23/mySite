@@ -13,7 +13,7 @@ function experienceCtrl( ) {
       link: 'www.factset.com',
       logo: 'img/factsetF.png',
       bullets: [ 'Front-end web development for the UI layer of an application. Workflow follows scrum methods and principles.',
-      'Technology: AngularJS, jQuery, Jasmine, Underscore, Sass, Grunt, Bower']
+      'Technology: AngularJS, jQuery, Jasmine, Lodash, Sass, Grunt, Bower']
     }
   ];
 }
