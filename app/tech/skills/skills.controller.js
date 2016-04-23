@@ -57,6 +57,10 @@ function skillsCtrl( ) {
       image: 'img/Cite_book.svg',
       list: [
         {
+          name: 'lodash',
+          link: 'https://lodash.com/'
+        },
+        {
           name: 'Underscore',
           link: 'http://underscorejs.org'
         },
